@@ -1,0 +1,2 @@
+Known,Open,F1-score,Accuracy,dataset,known_cls_ratio,labeled_ratio,seed
+81.7906,78.7257,81.712,79.45,banking,0.5,1.0,1
